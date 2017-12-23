@@ -34,5 +34,6 @@ let model = new Model({   //instantiate a new object
         distance:160,
         decay:2
     });
-    ````
+    
+ ````
 
