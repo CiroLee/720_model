@@ -11,7 +11,7 @@
 <script src="js/JSONLoader.js"></script>
 <script src="js/OrbitControls.js"></script>
 ```
-and at the back of the <body/>
+and at the back of the body label
 ```html
 <script src="js/model.js"></script>
 ```
