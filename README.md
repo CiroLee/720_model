@@ -35,5 +35,5 @@ let model = new Model({   //instantiate a new object
         decay:2
     });
     
- ````
+ ```
 
