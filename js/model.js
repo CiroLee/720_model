@@ -1,4 +1,4 @@
-
+//创建类
 
 const Model = class Model {
     constructor(options){
