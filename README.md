@@ -1,7 +1,7 @@
 # How to use
 
 
-[Demo](http://nanhaibo.com/bbt_tech/webgl/720_model/)
+[Demo](https://cirolee.github.io/720_model/index.html)
 
 
 ## install
